@@ -1,0 +1,15 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+*.env
+.env
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# OS generated files
+.DS_Store
+Thumbs.db
