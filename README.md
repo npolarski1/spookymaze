@@ -15,10 +15,9 @@ Spooky maze game built using the Ursina engine in Python.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/npolarski1/spookymaze.git
     cd 3d-maze 
     ```
-    (Replace `<your-repository-url>` with the actual URL after you push to GitHub)
 
 2.  **Create and activate a virtual environment:**
     *   Windows:
